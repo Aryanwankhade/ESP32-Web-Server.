@@ -3,8 +3,7 @@
 A simple yet stylish web server project using the ESP32 that allows you to control two GPIO pins (GPIO 26 and GPIO 27) remotely via a browser-based interface over Wi-Fi. This project is ideal for home automation, IoT learning, or simply understanding how to interface web technologies with microcontrollers.
 
 ## 📷 Preview
-
-![ESP32 Web Server Screenshot](screenshot.png) <!-- Optional if you add an image -->
+(https://github.com/Aryanwankhade/ESP32-Web-Server./blob/main/circuit%20diagram%20.png)
 
 ## ✨ Features
 
